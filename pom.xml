@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Nexus_Test</groupId>
   <artifactId>Nexus_Test</artifactId>
-  <version>12-SNAPSHOT</version>
+  <version>v.12</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
